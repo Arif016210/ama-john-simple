@@ -65,8 +65,6 @@ const Review = () => {
                     <button onClick={handlePlaceOrder} className="cart-btn">Place Order</button>
                 </Cart>
             </div>
-
-
         </div>
     );
 };
